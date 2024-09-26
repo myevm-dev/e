@@ -6,10 +6,10 @@
 
 <div class="top-nav-wrapper">
   <div class="top-nav-content">
-    <a href="/">
+    <a href="/home">
       <img src="/media.svg" alt="PoolTogether" class="desktop-only" />
       <img src="/media.svg" alt="PoolTogether" class="mobile-only" />
-    </a>
+    </a>    
     <WalletConnectionModal>
       <NavWalletDisplay slot="button-content" />
     </WalletConnectionModal>
