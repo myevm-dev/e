@@ -4,7 +4,7 @@ import { dolphinAddress } from './constants'
 import type { SwapRouteConfig } from 'dskit-eth'
 import type { Token } from './types'
 
-export const appName: string = 'PT Classic'
+export const appName: string = 'Media'
 
 export const chain = base satisfies Chain
 

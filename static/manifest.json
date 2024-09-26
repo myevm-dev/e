@@ -1,5 +1,5 @@
 {
-  "background_color": "#21064e",
+  "background_color": "#000",
   "categories": ["ethereum", "defi", "crypto", "prize", "savings"],
   "description": "Save money, win prizes.",
   "display": "minimal-ui",
@@ -7,9 +7,9 @@
     { "src": "favicon.ico", "sizes": "48x48" },
     { "src": "pooltogether-square.svg", "sizes": "any" }
   ],
-  "name": "PoolTogether Classic",
+  "name": "MyEVM Media",
   "scope": "/",
-  "short_name": "PT Classic",
+  "short_name": "Media",
   "start_url": "/",
-  "theme_color": "#6538c1"
+  "theme_color": "#fff435"
 }

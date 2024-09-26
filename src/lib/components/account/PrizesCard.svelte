@@ -116,7 +116,6 @@
     position: absolute;
     inset: 0;
     padding-top: 42vw;
-    background-image: url('/abstract-pooly.jpg');
     background-repeat: no-repeat;
     background-position-y: center;
     background-size: cover;
