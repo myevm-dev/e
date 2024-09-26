@@ -106,7 +106,7 @@
   div.banner > span.title {
     padding: 0.25rem 0.5rem;
     color: var(--pt-teal-dark);
-    background-color: var(--pt-purple-700);
+    background-color: #1e1e1e;
     font-size: 1.5rem;
     line-height: 150%;
     border-radius: 0.5rem;
@@ -126,7 +126,7 @@
     content: '';
     position: absolute;
     inset: 0;
-    background-color: rgba(126, 70, 242, 0.6);
+    background-color: #1e1e1e;
   }
 
   div.content-wrapper {
