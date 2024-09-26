@@ -25,7 +25,7 @@
 
 <DepositCard />
 
-<span class="join-us">Join the thousands of people saving to win</span>
+<span class="join-us">Experince Self Repaying Advertising</span>
 
 <style>
   div.banner {

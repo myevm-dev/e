@@ -2,7 +2,7 @@
   import PrizeDistributionCard from '$lib/components/prizes/PrizeDistributionCard.svelte'
 </script>
 
-<h2>What prizes could you win?</h2>
+<h2>Prizes Drawn</h2>
 <PrizeDistributionCard />
 
 <style>
